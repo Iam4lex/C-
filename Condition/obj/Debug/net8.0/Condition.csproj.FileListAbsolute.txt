@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Condition/bin/Debug/net8.0/Condition
+/home/alex/Desktop/C Sharp Projects/Condition/bin/Debug/net8.0/Condition.deps.json
+/home/alex/Desktop/C Sharp Projects/Condition/bin/Debug/net8.0/Condition.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Condition/bin/Debug/net8.0/Condition.dll
+/home/alex/Desktop/C Sharp Projects/Condition/bin/Debug/net8.0/Condition.pdb
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.dll
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/refint/Condition.dll
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.pdb
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/Condition.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Condition/obj/Debug/net8.0/ref/Condition.dll
