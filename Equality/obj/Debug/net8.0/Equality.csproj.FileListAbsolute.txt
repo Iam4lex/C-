@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Equality/bin/Debug/net8.0/Equality
+/home/alex/Desktop/C Sharp Projects/Equality/bin/Debug/net8.0/Equality.deps.json
+/home/alex/Desktop/C Sharp Projects/Equality/bin/Debug/net8.0/Equality.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Equality/bin/Debug/net8.0/Equality.dll
+/home/alex/Desktop/C Sharp Projects/Equality/bin/Debug/net8.0/Equality.pdb
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.dll
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/refint/Equality.dll
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.pdb
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/Equality.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Equality/obj/Debug/net8.0/ref/Equality.dll
