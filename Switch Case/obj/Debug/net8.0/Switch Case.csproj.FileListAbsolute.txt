@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Switch Case/bin/Debug/net8.0/Switch Case
+/home/alex/Desktop/C Sharp Projects/Switch Case/bin/Debug/net8.0/Switch Case.deps.json
+/home/alex/Desktop/C Sharp Projects/Switch Case/bin/Debug/net8.0/Switch Case.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Switch Case/bin/Debug/net8.0/Switch Case.dll
+/home/alex/Desktop/C Sharp Projects/Switch Case/bin/Debug/net8.0/Switch Case.pdb
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.dll
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/refint/Switch Case.dll
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.pdb
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/Switch Case.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Switch Case/obj/Debug/net8.0/ref/Switch Case.dll
