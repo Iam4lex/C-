@@ -1,0 +1,14 @@
+/home/alex/Desktop/C Sharp Projects/Random/bin/Debug/net8.0/Random
+/home/alex/Desktop/C Sharp Projects/Random/bin/Debug/net8.0/Random.deps.json
+/home/alex/Desktop/C Sharp Projects/Random/bin/Debug/net8.0/Random.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Random/bin/Debug/net8.0/Random.dll
+/home/alex/Desktop/C Sharp Projects/Random/bin/Debug/net8.0/Random.pdb
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.dll
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/refint/Random.dll
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.pdb
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/Random.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Random/obj/Debug/net8.0/ref/Random.dll

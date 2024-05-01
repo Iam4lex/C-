@@ -1,0 +1,14 @@
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Arrays/bin/Debug/net8.0/Arrays
+/home/alex/Desktop/C Sharp Projects/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/alex/Desktop/C Sharp Projects/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/alex/Desktop/C Sharp Projects/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Arrays/obj/Debug/net8.0/ref/Arrays.dll

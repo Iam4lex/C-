@@ -1,0 +1,14 @@
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/bin/Debug/net8.0/CoditionStatements
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/bin/Debug/net8.0/CoditionStatements.deps.json
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/bin/Debug/net8.0/CoditionStatements.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/bin/Debug/net8.0/CoditionStatements.dll
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/bin/Debug/net8.0/CoditionStatements.pdb
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.dll
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/refint/CoditionStatements.dll
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.pdb
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/CoditionStatements.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/CsharpProjects/CoditionStatements/obj/Debug/net8.0/ref/CoditionStatements.dll

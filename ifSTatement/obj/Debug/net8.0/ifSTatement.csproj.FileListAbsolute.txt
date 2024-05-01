@@ -1,0 +1,14 @@
+/home/alex/Desktop/C Sharp Projects/ifSTatement/bin/Debug/net8.0/ifSTatement
+/home/alex/Desktop/C Sharp Projects/ifSTatement/bin/Debug/net8.0/ifSTatement.deps.json
+/home/alex/Desktop/C Sharp Projects/ifSTatement/bin/Debug/net8.0/ifSTatement.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/ifSTatement/bin/Debug/net8.0/ifSTatement.dll
+/home/alex/Desktop/C Sharp Projects/ifSTatement/bin/Debug/net8.0/ifSTatement.pdb
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.dll
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/refint/ifSTatement.dll
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.pdb
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ifSTatement.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/ifSTatement/obj/Debug/net8.0/ref/ifSTatement.dll

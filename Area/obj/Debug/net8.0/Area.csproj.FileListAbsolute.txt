@@ -1,0 +1,14 @@
+/home/alex/Desktop/C Sharp Projects/Area/bin/Debug/net8.0/Area
+/home/alex/Desktop/C Sharp Projects/Area/bin/Debug/net8.0/Area.deps.json
+/home/alex/Desktop/C Sharp Projects/Area/bin/Debug/net8.0/Area.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Area/bin/Debug/net8.0/Area.dll
+/home/alex/Desktop/C Sharp Projects/Area/bin/Debug/net8.0/Area.pdb
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.dll
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/refint/Area.dll
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.pdb
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/Area.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Area/obj/Debug/net8.0/ref/Area.dll
