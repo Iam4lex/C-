@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Looping/bin/Debug/net8.0/Looping
+/home/alex/Desktop/C Sharp Projects/Looping/bin/Debug/net8.0/Looping.deps.json
+/home/alex/Desktop/C Sharp Projects/Looping/bin/Debug/net8.0/Looping.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Looping/bin/Debug/net8.0/Looping.dll
+/home/alex/Desktop/C Sharp Projects/Looping/bin/Debug/net8.0/Looping.pdb
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.dll
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/refint/Looping.dll
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.pdb
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/Looping.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Looping/obj/Debug/net8.0/ref/Looping.dll
