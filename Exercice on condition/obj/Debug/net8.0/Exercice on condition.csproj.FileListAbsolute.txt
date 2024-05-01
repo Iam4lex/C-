@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/bin/Debug/net8.0/Exercice on condition
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/bin/Debug/net8.0/Exercice on condition.deps.json
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/bin/Debug/net8.0/Exercice on condition.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/bin/Debug/net8.0/Exercice on condition.dll
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/bin/Debug/net8.0/Exercice on condition.pdb
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.dll
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/refint/Exercice on condition.dll
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.pdb
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/Exercice on condition.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Exercice on condition/obj/Debug/net8.0/ref/Exercice on condition.dll
