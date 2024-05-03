@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Convert Data/bin/Debug/net8.0/Convert Data
+/home/alex/Desktop/C Sharp Projects/Convert Data/bin/Debug/net8.0/Convert Data.deps.json
+/home/alex/Desktop/C Sharp Projects/Convert Data/bin/Debug/net8.0/Convert Data.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Convert Data/bin/Debug/net8.0/Convert Data.dll
+/home/alex/Desktop/C Sharp Projects/Convert Data/bin/Debug/net8.0/Convert Data.pdb
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.dll
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/refint/Convert Data.dll
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.pdb
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/Convert Data.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Convert Data/obj/Debug/net8.0/ref/Convert Data.dll
