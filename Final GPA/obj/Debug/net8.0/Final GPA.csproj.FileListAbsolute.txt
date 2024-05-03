@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Final GPA/bin/Debug/net8.0/Final GPA
+/home/alex/Desktop/C Sharp Projects/Final GPA/bin/Debug/net8.0/Final GPA.deps.json
+/home/alex/Desktop/C Sharp Projects/Final GPA/bin/Debug/net8.0/Final GPA.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Final GPA/bin/Debug/net8.0/Final GPA.dll
+/home/alex/Desktop/C Sharp Projects/Final GPA/bin/Debug/net8.0/Final GPA.pdb
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.dll
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/refint/Final GPA.dll
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.pdb
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/Final GPA.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Final GPA/obj/Debug/net8.0/ref/Final GPA.dll

@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/bin/Debug/net8.0/Max and Min Values
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/bin/Debug/net8.0/Max and Min Values.deps.json
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/bin/Debug/net8.0/Max and Min Values.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/bin/Debug/net8.0/Max and Min Values.dll
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/bin/Debug/net8.0/Max and Min Values.pdb
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.dll
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/refint/Max and Min Values.dll
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.pdb
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/Max and Min Values.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Max and Min Values/obj/Debug/net8.0/ref/Max and Min Values.dll
