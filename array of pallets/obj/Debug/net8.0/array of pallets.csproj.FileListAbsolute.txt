@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/array of pallets/bin/Debug/net8.0/array of pallets
+/home/alex/Desktop/C Sharp Projects/array of pallets/bin/Debug/net8.0/array of pallets.deps.json
+/home/alex/Desktop/C Sharp Projects/array of pallets/bin/Debug/net8.0/array of pallets.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/array of pallets/bin/Debug/net8.0/array of pallets.dll
+/home/alex/Desktop/C Sharp Projects/array of pallets/bin/Debug/net8.0/array of pallets.pdb
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.dll
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/refint/array of pallets.dll
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.pdb
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/array of pallets.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/array of pallets/obj/Debug/net8.0/ref/array of pallets.dll
