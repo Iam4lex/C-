@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Code/bin/Debug/net8.0/Code
+/home/alex/Desktop/C Sharp Projects/Code/bin/Debug/net8.0/Code.deps.json
+/home/alex/Desktop/C Sharp Projects/Code/bin/Debug/net8.0/Code.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Code/bin/Debug/net8.0/Code.dll
+/home/alex/Desktop/C Sharp Projects/Code/bin/Debug/net8.0/Code.pdb
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.dll
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/refint/Code.dll
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.pdb
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/Code.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Code/obj/Debug/net8.0/ref/Code.dll
