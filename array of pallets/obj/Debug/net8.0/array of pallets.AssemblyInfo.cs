@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("array of pallets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3063b30940b7e14617bb231cb26a1fcff7009b70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1046cdda371583d44c246157de746f0b685f60f")]
 [assembly: System.Reflection.AssemblyProductAttribute("array of pallets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("array of pallets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
