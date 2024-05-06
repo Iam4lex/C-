@@ -1,0 +1,15 @@
+/home/alex/Desktop/C Sharp Projects/Parse Int/bin/Debug/net8.0/Parse Int
+/home/alex/Desktop/C Sharp Projects/Parse Int/bin/Debug/net8.0/Parse Int.deps.json
+/home/alex/Desktop/C Sharp Projects/Parse Int/bin/Debug/net8.0/Parse Int.runtimeconfig.json
+/home/alex/Desktop/C Sharp Projects/Parse Int/bin/Debug/net8.0/Parse Int.dll
+/home/alex/Desktop/C Sharp Projects/Parse Int/bin/Debug/net8.0/Parse Int.pdb
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.AssemblyInfoInputs.cache
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.AssemblyInfo.cs
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.sourcelink.json
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.dll
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/refint/Parse Int.dll
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.pdb
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/Parse Int.genruntimeconfig.cache
+/home/alex/Desktop/C Sharp Projects/Parse Int/obj/Debug/net8.0/ref/Parse Int.dll
